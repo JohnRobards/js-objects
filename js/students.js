@@ -31,4 +31,4 @@ var students = [
   }
 ];
 
-alert("" + "hi");
+alert("hi there");
