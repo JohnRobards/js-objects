@@ -31,4 +31,4 @@ var students = [
   }
 ];
 
-alert("" + students [0]);
+alert("" + "hi");
