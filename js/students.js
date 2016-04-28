@@ -30,3 +30,5 @@ var students = [
     points: '350'
   }
 ];
+
+alert(students [0][0]);
